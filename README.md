@@ -1,29 +1,13 @@
-<h1 align="center">Hi 👋, I'm Monthon (Yuan) Khamrak</h1>
-<h3 align="center">An actuarial science student who builds data, automation and AI side-projects</h3>
+<h1 align="center">Hallo!, I'm Monthon (Yuan) Khamrak</h1>
 
 <p align="left">
 🔭 I'm currently studying <b>Actuarial Science</b> at <b>Mahidol University International College</b>
 </p>
 
 <p align="left">
-🌱 I'm currently learning <b>SQL, Python, n8n, PostgreSQL, BigQuery</b> and data pipeline tooling
+📫 How to reach me <b>YUANFUNMAN123123@gmail.com</b>
 </p>
 
-<p align="left">
-⚙️ I'm currently working on a <b>self-hosted AI assistant</b> (n8n + Docker + Ollama on a Raspberry Pi)
-</p>
-
-<p align="left">
-💬 Ask me about <b>actuarial science, insurance, automation workflows and home-lab setups</b>
-</p>
-
-<p align="left">
-📫 How to reach me <b>yuanfunman123@gmail.com</b>
-</p>
-
-<p align="left">
-⚡ Fun fact <b>I lift, film TikToks and grind actuarial exams in the same week 🏋️</b>
-</p>
 
 ---
 
@@ -46,18 +30,21 @@
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/pgAdmin%204-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgAdmin 4" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Management" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white" alt="RStudio" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio" />
 </p>
 
 <h3 align="left">AI &amp; LLM</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-6E56CF?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
