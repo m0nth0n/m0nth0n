@@ -1,7 +1,7 @@
 <h1 align="center">Hello!, I'm Monthon (Yuan) Khamrak</h1>
 
 <p align="left">
-🔭 I'm currently studying <b>Actuarial Science</b> at <b>Mahidol University International College</b>
+🔭 I'm currently studying <b>Actuarial Science</b> at <b>Mahidol University</b>
 </p>
 
 <p align="left">
