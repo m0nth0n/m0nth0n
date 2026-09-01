@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-📫 How to reach me <b>YUANFUNMAN123123@gmail.com</b>
+📫 How to reach me <b>YUANFUNMAN123@gmail.com</b>
 </p>
 
 
