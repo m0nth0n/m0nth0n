@@ -68,6 +68,8 @@
   <a href="https://github.com/m0nth0n/octra">
     <img src="https://img.shields.io/badge/Octra-121011?style=for-the-badge&logo=github&logoColor=white" alt="Octra" />
   </a>
+  <br />
+  A local-first Flutter app for habit tracking and GPS run tracking: weighted habit scoring, live route mapping, shareable report cards, and English/Thai support. All data stays on-device in SQLite.
 </p>
 
 ---
