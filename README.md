@@ -63,6 +63,15 @@
 
 ---
 
+<h2 align="left">Projects</h2>
+<p align="left">
+  <a href="https://github.com/m0nth0n/octra">
+    <img src="https://img.shields.io/badge/Octra-121011?style=for-the-badge&logo=github&logoColor=white" alt="Octra" />
+  </a>
+</p>
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:yuanfunman123@gmail.com">
